@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_description">Shows a mouse pointer on the TV and performs clicks, scrolling, Back, Home and text entry sent from the TV Mouse phone app.</string>
+</resources>

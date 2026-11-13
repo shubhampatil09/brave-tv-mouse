@@ -1,0 +1,10 @@
+# build intermediates
+build/
+
+# Brave APKs are 225-300 MB each (over GitHub's 100 MB file limit) and are Brave's to
+# distribute. Download the stock APK from Brave's GitHub releases and rebuild; see README.md.
+brave/stock/
+out/brave-tv-*.apk
+
+# signer side files
+*.idsig
